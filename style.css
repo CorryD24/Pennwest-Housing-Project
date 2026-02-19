@@ -1,0 +1,302 @@
+
+/*This is the style sheet*/
+.navbar {
+    background-color: #003d77;
+    color: white;
+}
+
+.spanRed {
+    color: red;
+}
+
+.btnMarginB {
+    margin-bottom: 10px;
+}
+
+.sortBtnMargin {
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+.font13 {
+    font-size: 13px;
+}
+
+.font14 {
+    font-size: 14px;
+}
+
+.font15 {
+    font-size: 15px;
+}
+
+.font16 {
+    font-size: 16px;
+}
+
+.managerCheck {
+    margin: 5px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.managerCheck2 {
+    margin: 15.5px;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.managerDrop {
+    font-size: 18px;
+    margin-top: 8px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.navPadL{
+    padding-left: 7px;
+}
+
+.navHeaderPad{
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.contactMargin {
+    margin-top: 10px;
+}
+
+.form-responsive {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+@media (min-width: 768px) {
+    .form-responsive {
+      overflow-x: visible;
+    }
+}
+
+.navbar-brand {
+    height: 50px;
+    width: auto;
+}
+
+.input-group {
+    padding: 10px;
+}
+
+.container-lg {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.custom-label:active {
+    background-color: rgb(173, 173, 173);
+    color: black;
+}
+
+.dark-mode.custom-label {
+    color: white;
+}
+
+.centerColumnGray {
+    background-color: rgb(239, 239, 239);
+}
+
+.dark-mode .centerColumnGray {
+    background-color: rgb(56, 56, 56);
+}
+
+.dark-mode .btn-outline-dark {
+    color: white;
+    border-color: white;
+}
+
+.californiaBtn.btn-outline-dark:hover{
+    background: #fa291c;
+}
+
+.edinboroBtn.btn-outline-dark:hover{
+    background: #bb131a;
+}
+
+.clarionBtn.btn-outline-dark:hover{
+    background: #a78231;
+}
+
+.dark-mode.californiaBtn.btn-outline-dark:hover{
+    background: #fa291c;
+}
+
+.dark-mode.edinboroBtn.btn-outline-dark:hover{
+    background: #bb131a;
+}
+
+.dark-mode.clarionBtn.btn-outline-dark:hover{
+    background: #a78231;
+}
+  
+.dark-mode td,
+.dark-mode th{
+    background-color: #121212;
+    color: white;
+}
+
+.dark-mode label {
+    background-color: rgb(77, 77, 77);
+    border-color:rgb(45, 45, 45);
+    color: white;
+}
+
+#homepageCarousel .carousel-inner {
+    height: 300px;
+}
+#homepageCarousel .carousel-item img {
+    object-fit: contain;
+    max-height: 300px;
+    width: 100%;
+}
+
+#roomImage {
+    display: block;
+    margin: 0 auto;
+    max-width: 60%;
+}
+
+.dark-mode .dropdown-menu {
+    background-color: rgb(77, 77, 77);
+    color: white;
+}
+
+.dark-mode a {
+    color: white;
+}
+
+.dark-mode option {
+    background-color: rgb(77, 77, 77);
+    color: white;
+}
+
+.dark-mode input:not([type="button"]):not([type="submit"]),
+.dark-mode select {
+    background-color: rgb(185, 185, 185);
+    border-color: rgb(185, 185, 185);
+}
+
+/* Basic styling for the accordion */
+.accordion {
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+.accordion-item {
+    border-top: 1px solid #ddd;
+}
+.accordion-title {
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: #f9f9f9;
+    color: #000;
+}
+.accordion-content {
+    display: none;
+    padding: 10px;
+    background-color: #e6eef4;
+    color: #000;
+}
+
+/* Styling for the contact section */
+.contact-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+}
+.contact {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    flex: 1 1 calc(30% - 20px);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.contact h4 {
+    margin-top: 0;
+    color: black;
+}
+.contact h3 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.5em;
+    color: black;
+}
+.contact h2 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.8em;
+    color: black;
+}
+.subtitle {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 1.2em;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: black;
+}
+
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6 {
+    color: white; /*sets all headers to white when dark mode is clicked. keeps default black in light mode*/
+}
+
+/* General dark mode styling */
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+/* Styling for the dark mode toggle button */
+#darkModeToggle {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #444;
+    color: #fff;
+}
+#darkModeToggle:hover {
+    background-color: #666;
+}
+body.dark-mode .accordion-title {
+    background-color: #2a2a2a;
+    color: #ffffff;
+}
+body.dark-mode .accordion-content {
+    background-color: #1c1c1c;
+    color: #dddddd;
+}
+
+
+/* Header adjustments for dark mode */
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode h5,
+body.dark-mode h6 {
+    color: #ffffff; /* White headers in dark mode */
+}

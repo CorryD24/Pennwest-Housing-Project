@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0a0ce2b-c07a-4418-8284-bc18022a92d6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2moCMiKzREu7iVi3FZHLj8mfvA0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;PHP Script.model.php.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mike/Downloads/Senior-Project-Auto-Email/Senior-Project-Auto-Email&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.webide.settings.project.settings.php&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="model.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/CMAC4900Project/model/model.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.model.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23339.16" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23339.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0a0ce2b-c07a-4418-8284-bc18022a92d6" name="Changes" comment="" />
+      <created>1727733498402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727733498402</updated>
+      <workItem from="1727733502201" duration="11000" />
+      <workItem from="1727734014027" duration="15000" />
+      <workItem from="1730943941406" duration="3410000" />
+      <workItem from="1731537010261" duration="2135000" />
+      <workItem from="1731539575431" duration="24369000" />
+      <workItem from="1731807056811" duration="4609000" />
+      <workItem from="1731811871849" duration="2087000" />
+      <workItem from="1732032667255" duration="1891000" />
+      <workItem from="1732584589570" duration="3000000" />
+      <workItem from="1732669675390" duration="1508000" />
+      <workItem from="1733329155431" duration="1652000" />
+      <workItem from="1733542266715" duration="836000" />
+      <workItem from="1733872208865" duration="3796000" />
+      <workItem from="1737510212161" duration="1934000" />
+      <workItem from="1737762594717" duration="11736000" />
+      <workItem from="1738190773734" duration="959000" />
+      <workItem from="1738288975364" duration="2440000" />
+      <workItem from="1738778544337" duration="10593000" />
+      <workItem from="1738959786300" duration="7772000" />
+      <workItem from="1739582564602" duration="109000" />
+      <workItem from="1739582684313" duration="4254000" />
+      <workItem from="1740451791347" duration="16152000" />
+      <workItem from="1742407958274" duration="6910000" />
+      <workItem from="1742929930374" duration="4093000" />
+      <workItem from="1744219794854" duration="5247000" />
+      <workItem from="1744824076562" duration="7655000" />
+      <workItem from="1745256795638" duration="2315000" />
+      <workItem from="1745346371091" duration="294000" />
+      <workItem from="1745416691052" duration="8966000" />
+      <workItem from="1745866285002" duration="15359000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
